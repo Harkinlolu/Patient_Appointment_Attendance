@@ -1,5 +1,6 @@
-A MACHINE LEARNING APPROACH TO REDUCING MISSED APPOINTMENTS AND IMPROVING HEALTHCARE EFFICIENCY
-Overview
+# A MACHINE LEARNING APPROACH TO REDUCING MISSED APPOINTMENTS AND IMPROVING HEALTHCARE EFFICIENCY
+
+## Overview
 This project aims to tackle the critical issue of missed medical appointments (no-shows) in healthcare systems. By applying a robust end-to-end data science pipeline, the objective is to predict patient attendance based on historical appointment data. This prediction enables better resource allocation, improved patient engagement, and optimised clinical workflows.
 Objectives
 Key objectives include:
